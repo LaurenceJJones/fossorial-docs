@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This repository is deprecated and no longer maintained. Please refer to the [new repository (docs-v2)](https://github.com/fosrl/docs-v2) for the latest documentation.
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
@@ -27,4 +30,3 @@ $ npx sst deploy --stage prod
 # License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-# docs-v2
